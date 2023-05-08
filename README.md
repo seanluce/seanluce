@@ -6,7 +6,7 @@ Find me on Mastodon: <a rel="me" href="https://hachyderm.io/@seanluce">@seanluce
 
 Check out some of my projects...
 
-|  |  |
+| Project | Last Commit |
 | --- | --- |
 | [ANFCapacityManager](https://github.com/anftechteam/anfcapacitymanager) | ![ANFCapacityManager last commit](https://img.shields.io/github/last-commit/ANFTechTeam/ANFCapacityManager) |
 | [ANFHealthCheck](https://github.com/seanluce/anfhealthcheck) | ![ANFHealthCheck last commit](https://img.shields.io/github/last-commit/seanluce/ANFHealthCheck)
